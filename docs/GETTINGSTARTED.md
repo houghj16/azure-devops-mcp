@@ -25,7 +25,8 @@ Before you begin, make sure you have:
 ### For Visual Studio 2022
 
 1. Install [VS Studio 2022 version 17.14](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-history) or later
-2. Open a project in Visual Studio
+2. Install [Node.js](https://nodejs.org/en/download) 20+
+3. Open a project in Visual Studio
 
 ## 🍕 Installation Options
 
